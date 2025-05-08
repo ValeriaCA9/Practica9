@@ -6,7 +6,7 @@ void main() {
 
   printf("Los numeros de la lista son: ");
 
-  for {i = 0; i < 5; i++)
+  for (i = 0; i < 5; i++);
   {
     printf("%d", list[i]);
   }
